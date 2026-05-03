@@ -1,0 +1,23 @@
+{
+  "entities": {
+    "LocationUpdate": {
+      "title": "Location Update",
+      "description": "Represents a single location update from a user",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string" },
+        "displayName": { "type": "string" },
+        "lat": { "type": "number" },
+        "lng": { "type": "number" },
+        "timestamp": { "type": "string", "format": "date-time" }
+      },
+      "required": ["userId", "lat", "lng", "timestamp"]
+    }
+  },
+  "firestore": {
+    "locations/{userId}": {
+      "schema": "LocationUpdate",
+      "description": "Stores the latest location for each user"
+    }
+  }
+}

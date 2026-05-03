@@ -1,0 +1,6 @@
+{
+  "name": "LiveTrack: Real-Time Fleet",
+  "description": "A high-performance real-time location tracking system using Kafka semantics, Socket.IO, and Google Maps.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
