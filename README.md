@@ -33,7 +33,8 @@ The system is built using an event-driven architecture powered by **Kafka**, ens
 
 ###  Login Page
 
-<!-- Add your login page screenshot below -->
+<img width="1219" height="715" alt="image" src="https://github.com/user-attachments/assets/e3beacdd-344e-41b3-8b03-7590a33adab1" />
+
 
 
 
