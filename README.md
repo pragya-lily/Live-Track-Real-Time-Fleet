@@ -25,7 +25,7 @@ The system is built using an event-driven architecture powered by **Kafka**, ens
 
 ###  Home Page
 
-<!-- Add your homepage screenshot below -->
+<img width="1120" height="694" alt="image" src="https://github.com/user-attachments/assets/b01d1c2f-7111-40ba-947b-298b3cc17af9" />
 
 
 
